@@ -39,8 +39,6 @@
 
   - Monitoring Master Node Status: The worker node waits for the master node to be ready before joining the cluster.
 
-  - Installing EC2 Instance Connect CLI and other utilities: Installs the EC2 Instance Connect CLI and mssh utility to simplify communication between nodes.
-
 - This module is not intended for production use and is provided as an example for training purposes.
 
 - It is designed to showcase the process of creating and publishing a module in the Terraform Registry.
