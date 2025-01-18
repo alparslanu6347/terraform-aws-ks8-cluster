@@ -20,6 +20,7 @@
   - Flannel CNI installation: Deploys the Flannel network plugin to manage networking between pods.
 
   - Local Path Storage setup: Deploys and configures the Local Path Provisioner for persistent storage in the cluster.
+  
   - Storage class configuration: Marks the Local Path Storage as the default storage class.
   
 - worker.sh includes :
